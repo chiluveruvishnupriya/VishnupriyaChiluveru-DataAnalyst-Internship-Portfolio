@@ -28,12 +28,10 @@ https://github.com/chiluveruvishnupriya/task3_Deep_Analysis_Project.git
 ### Task 4 – Sales Data Analysis
 https://github.com/chiluveruvishnupriya/task4_Sales_Data_Analysis.git
 
-## 📜 Certificates
-Certificates will be added here.
 
 ## 📄 Resume
 My latest resume will be added in the Resume folder.
 
 ## 📧 Contact
 - GitHub: https://github.com/your-username
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn:- LinkedIn: https://www.linkedin.com/in/your-profile/
