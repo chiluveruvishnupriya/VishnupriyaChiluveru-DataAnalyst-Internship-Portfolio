@@ -34,4 +34,4 @@ My latest resume will be added in the Resume folder.
 
 ## 📧 Contact
 - GitHub: https://github.com/chiluveruvishnupriya/
-- LinkedIn:- LinkedIn: https://www.linkedin.com/in/your-profile/
+- LinkedIn: https://www.linkedin.com/in/vishnupriyachiluveru11178831a/
