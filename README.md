@@ -33,5 +33,5 @@ https://github.com/chiluveruvishnupriya/task4_Sales_Data_Analysis.git
 My latest resume will be added in the Resume folder.
 
 ## 📧 Contact
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/chiluveruvishnupriya/
 - LinkedIn:- LinkedIn: https://www.linkedin.com/in/your-profile/
