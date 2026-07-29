@@ -17,16 +17,16 @@ This portfolio contains the projects I completed during my Data Analyst Internsh
 
 ## 📂 Projects
 ### Task 1 – Data Wrangling
-(Add GitHub link later)
+https://github.com/chiluveruvishnupriya/Task1.DataWrangling.git
 
 ### Task 2 – EDA & BI
-(Add GitHub link later)
+https://github.com/chiluveruvishnupriya/task2_EDA_BI.git
 
 ### Task 3 – Deep Analysis Project
-(Add GitHub link later)
+https://github.com/chiluveruvishnupriya/task3_Deep_Analysis_Project.git
 
 ### Task 4 – Sales Data Analysis
-(Add GitHub link later)
+https://github.com/chiluveruvishnupriya/task4_Sales_Data_Analysis.git
 
 ## 📜 Certificates
 Certificates will be added here.
